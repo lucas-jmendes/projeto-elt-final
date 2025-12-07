@@ -59,7 +59,7 @@ O pipeline é orquestrado pelo **Apache Airflow** rodando em containers Docker. 
 
 2.  **Entre na pasta:**
     ```bash
-    cd NOME_DO_REPO
+    cd projeto-elt-final
     ```
 
 3.  **Inicie o ambiente:**
